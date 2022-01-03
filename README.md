@@ -20,7 +20,7 @@
  ⚡ GitHub Stats
 
   <img align="left" alt="shauncjones's GitHub Stats" src="https://github-readme-stats-shauncjones.vercel.app/api?username=shauncjones&show_icons=true&hide_border=true" />
-  <img align="left" alt="shauncjones's GitHub Stats" src="https://github-readme-stats-shauncjones.vercel.app/api/top-langs/?username=shauncjones&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
+  <img align="left" alt="shauncjones's GitHub Stats" src="https://github-readme-stats-shauncjones.vercel.app/api/top-langs/?username=shauncjones&show_icons=true&hide_border=true" />
 
 
 <!--
