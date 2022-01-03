@@ -13,11 +13,14 @@
 [<img align="left" alt="shauncjones | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instragram.com/shauncjonesss)
 [<img align="left" alt="shauncjones | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/shaun-jones-53515b229/)
 
+<br/>
+
 ---
 
  ⚡ GitHub Stats
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-shauncjones.vercel.app/api?username=shauncjones&show_icons=true&hide_border=true" />
+  ![Top Langs](https://github-readme-stats-shauncjones.vercel.app/api/top-langs/?username=shauncjones&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
 
 
 <!--
