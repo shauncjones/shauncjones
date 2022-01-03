@@ -1,4 +1,26 @@
-### Hi there 👋
+### Hi there, I'm Shaun - aka shauncjones 👋
+
+- 🔭 I’m currently working on a Movie Theater building & management game!
+- 🌱 I’m currently studying Computer Science.
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2022 Goals: Expand my knowledge in programming.
+- ⚡ Fun fact: I love landscape photography.
+
+### Connect with me:
+
+<!--[<img align="left" alt="shauncjones.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]-->
+[<img align="left" alt="shauncjones | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://www.twitter.com/shauncjonesss]
+[<img align="left" alt="shauncjones | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://www.instragram.com/shauncjonesss]
+[<img align="left" alt="shauncjones | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/shaun-jones-53515b229/]
+
+---
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-shauncjones.vercel.app/api?username=shauncjones&show_icons=true&hide_border=true" />
+
+</details>
 
 <!--
 **shauncjones/shauncjones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
