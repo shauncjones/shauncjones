@@ -1,6 +1,6 @@
 ### Hi there, I'm Shaun - aka shauncjones 👋
 
-- 🔭 I’m currently working on a movie theater building & management game!
+- 🔭 I’m currently working on a range of projects from Minecraft modding to Python
 - 🌱 I’m currently studying Computer Science.
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Expand my knowledge in programming.
